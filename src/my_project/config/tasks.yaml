@@ -1,0 +1,4 @@
+summarize_task:
+  description: "What is live stock of Apple."
+  expected_output: "A short, beginner-friendly explanation."
+  agent: researcher
